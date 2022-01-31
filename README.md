@@ -18,7 +18,7 @@
 
 O que você vai ver neste notebook:
   1. Limpeza dos dados e produção de features novas.
-  2. Uso de Pipeline para facilitar o uso dos dados em diversos modelos e minimizar as chances de data leak.
+  2. Uso de Pipeline para facilitar a manipulação dos dados em diversos modelos e minimizar as chances de data leak.
   3. Como lidar com um dataset desbalanceado.
   4. Escolha de métricas para dataset desbalanceados.
   5. Conversão de features para categóricas ordenadas e para One Hot Enconder (OHE).
