@@ -12,6 +12,8 @@
 
 ![Chicken Egg Blood Vessel Segmentation](https://github.com/RGivisiez/Blood-Vessel-Segmentation/blob/main/images/vessel-egg.png)
 
+-----
+
 [Análise de default usando o dataset do Nubank](https://github.com/RGivisiez/credit-card-risk-analysis): O Nubank, fintech brasileira, promoveu uma competição com o intuito de buscar por novos talentos. Um dos objetivos propostos na competição foi o de criar um modelo que conseguisse prever quais clientes não iriam honrar com suas dívidas, incorrendo no que é chamado de default. Para fazer a previsões, era usado um dataset com informações sobre o cliente. Um dos grandes problemas desse tipo de dataset é seu desbalanço de classe, temos uma quantidade enorme de clientes que pagam suas dívidas e uma quantidade mínima que não pagam, isso torna a previsão difícil. 
 
 O que você vai ver neste notebook:
@@ -25,6 +27,7 @@ O que você vai ver neste notebook:
   8. Modelos usados: Decision Tree, Random Tree, Neural Network, Logistic Regression, Bagging, Random Patches, Adaboost e Voting Classifier. 
   9. Discussão dos resultados obtidos.
 
+-----
 
 [mysite]: https://rgivisiez.github.io/
 [twitter]: https://twitter.com/ronaldogivisiez/
