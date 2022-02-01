@@ -8,13 +8,17 @@
 
 ## A brief overview of my machine learning portfolio:
 
-[Chicken Blood Vessel Segmentation](https://github.com/RGivisiez/Blood-Vessel-Segmentation): Every day students of pharmacy at the Federal University of Minas Gerais (UFMG) use chicken eggs to study the effects of drugs in its blood vessels. Because of that, it is essential to automatize, speed up and improve the accuracy of blood vessel segmentation on chicken eggs, better segmentation guarantees reliable results with good reproducibility. This project uses Machine Learning algorithms to automatize the process while keeping it fast and with better accuracy.
+## [Chicken Blood Vessel Segmentation](https://github.com/RGivisiez/Blood-Vessel-Segmentation):
+
+Every day students of pharmacy at the Federal University of Minas Gerais (UFMG) use chicken eggs to study the effects of drugs in its blood vessels. Because of that, it is essential to automatize, speed up and improve the accuracy of blood vessel segmentation on chicken eggs, better segmentation guarantees reliable results with good reproducibility. This project uses Machine Learning algorithms to automatize the process while keeping it fast and with better accuracy.
 
 ![Chicken Egg Blood Vessel Segmentation](https://github.com/RGivisiez/Blood-Vessel-Segmentation/blob/main/images/vessel-egg.png)
 
 -----
 
-[Análise de default usando o dataset do Nubank](https://github.com/RGivisiez/credit-card-risk-analysis): O Nubank, fintech brasileira, promoveu uma competição com o intuito de buscar por novos talentos. Um dos objetivos propostos na competição foi o de criar um modelo que conseguisse prever quais clientes não iriam honrar com suas dívidas, incorrendo no que é chamado de default. Para fazer a previsões, era usado um dataset com informações sobre o cliente. Um dos grandes problemas desse tipo de dataset é seu desbalanço de classe, temos uma quantidade enorme de clientes que pagam suas dívidas e uma quantidade mínima que não pagam, isso torna a previsão difícil. 
+## [Análise de default usando o dataset do Nubank](https://github.com/RGivisiez/credit-card-risk-analysis):
+
+O Nubank, fintech brasileira, promoveu uma competição com o intuito de buscar por novos talentos. Um dos objetivos propostos na competição foi o de criar um modelo que conseguisse prever quais clientes não iriam honrar com suas dívidas, incorrendo no que é chamado de default. Para fazer a previsões, era usado um dataset com informações sobre o cliente. Um dos grandes problemas desse tipo de dataset é seu desbalanço de classe, temos uma quantidade enorme de clientes que pagam suas dívidas e uma quantidade mínima que não pagam, isso torna a previsão difícil. 
 
 O que você vai ver neste notebook:
   1. Limpeza dos dados e produção de features novas.
