@@ -10,7 +10,7 @@
 
 ## [Chicken Blood Vessel Segmentation](https://github.com/RGivisiez/Blood-Vessel-Segmentation):
 
-Every day students of pharmacy at the Federal University of Minas Gerais (UFMG) use chicken eggs to study the effects of drugs in its blood vessels. Because of that, it is essential to automatize, speed up and improve the accuracy of blood vessel segmentation on chicken eggs, better segmentation guarantees reliable results with good reproducibility. This project uses Machine Learning algorithms to automatize the process while keeping it fast and with better accuracy.
+Every day students of pharmacy at the Federal University of Minas Gerais (UFMG) use chicken eggs to study the effects of drugs in its blood vessels. Because of that, it is essential to automatize, speed up and improve the accuracy of blood vessel segmentation on chicken eggs, better segmentation guarantees reliable results with good reproducibility. This project uses Machine Learning algorithms to automate the process while keeping it fast and with better accuracy.
 
 ![Chicken Egg Blood Vessel Segmentation](https://github.com/RGivisiez/Blood-Vessel-Segmentation/blob/main/images/vessel-egg.png)
 
@@ -30,6 +30,16 @@ O que você vai ver neste notebook:
   7. Uso de gridsearch para buscar os melhores parâmetros dos modelos.
   8. Modelos usados: Decision Tree, Random Tree, Neural Network, Logistic Regression, Bagging, Random Patches, Adaboost e Voting Classifier. 
   9. Discussão dos resultados obtidos.
+
+-----
+
+## [Recommendation Systems](https://github.com/RGivisiez/recommendation-systems):
+
+Recommendation systems play an important role in filtering information before any user can consume it, whether by recommending movies to be watched or items a consumer might want. In this project, we build two recommendation systems using **Nearest Neighbor** and **Matrix Factorization**. Moreover, using the **t-SNE** algorithm, it is shown that a naive implementation of those algorithms has biases. They learn to recognize blockbuster movies from other movies as they are rated more often and with a higher rating score. That can lead to an algorithm prone to recommend more blockbuster movies than any other.
+
+<img src="https://github.com/RGivisiez/recommendation-systems/blob/main/img/t-sne.png" alt="t-SNE" style="width:500px;"/>
+
+-----
 
 -----
 
