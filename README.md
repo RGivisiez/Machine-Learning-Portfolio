@@ -44,8 +44,6 @@ Recommendation systems play an important role in filtering information before an
 <!-- GANs can be used in various sort of tasks, one of than is generate 
 A simple application of **Generative Adversarial Network (GAN)** that learns how to create images of numbers. -->
 
-
-
 -----
 
 GitHub Template Photo by <a href="https://unsplash.com/@halacious?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hal Gatewood</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
