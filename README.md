@@ -43,6 +43,9 @@ Recommendation systems play an important role in filtering information before an
 
 GAN is a machine learning model that can learn how to replicate the properties of a dataset. For example, a GAN trained in a dataset of breast cancer images learns how to generate new images similar to those seen in the dataset. Therefore, a GAN can be used to generate anonymized medical images, as they do not belong to any human, but still describe the disease characteristics. In this project, because GANs require a lot of computational resources and time, we will use two simple models to generate images of numbers.
 
+![model2](https://github.com/RGivisiez/WcGAN-GP-MNIST/blob/main/img/model2.png)
+
+
 -----
 
 GitHub Template Photo by <a href="https://unsplash.com/@halacious?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hal Gatewood</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
