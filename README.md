@@ -41,8 +41,7 @@ Recommendation systems play an important role in filtering information before an
 
 ## [Image Generation with GANs](https://github.com/RGivisiez/WcGAN-GP-MNIST):
 
-<!-- GANs can be used in various sort of tasks, one of than is generate 
-A simple application of **Generative Adversarial Network (GAN)** that learns how to create images of numbers. -->
+GAN is a machine learning model that can learn how to replicate the properties of a dataset. For example, a GAN trained in a dataset of breast cancer images learns how to generate new images similar to those seen in the dataset. Therefore, a GAN can be used to generate anonymized medical images, as they do not belong to any human, but still describe the disease characteristics. In this project, because GANs require a lot of computational resources and time, we will use two simple models to generate images of numbers.
 
 -----
 
