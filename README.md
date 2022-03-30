@@ -6,6 +6,14 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+## [E-commerce: Identificando características de bons vendedores]():
+
+Empresas que trabalham com marketplace agregam diversos tipos de vendedores em seus sistemas, porém nem todos eles conseguem deixar seus clientes satisfeitos. Sendo assim, é importante identificar característica de vendedores bem avaliados pelos usuários e incentivar que outros se comportem da mesma forma. Com a quantidade de dados disponível sobre os vendedores, é possível identificar de forma automatizada essas características e propor mudanças tanto por parte dos vendedores quanto por parte da empresa.
+
+![Sellers_clusters](https://github.com/RGivisiez/Olist-sellers-K-Means/blob/c7289e289c3dca66aabdada6e6a1cbfa1ca33905/sellers_cluster.png)
+
+-----
+
 ## [Chicken Blood Vessel Segmentation](https://github.com/RGivisiez/Blood-Vessel-Segmentation):
 
 Every day students of pharmacy at the Federal University of Minas Gerais (UFMG) use chicken eggs to study the effects of drugs in its blood vessels. Because of that, it is essential to automatize, speed up and improve the accuracy of **blood vessel segmentation** on chicken eggs, better segmentation guarantees reliable results with good reproducibility. This project uses Machine Learning algorithms to automate the process while keeping it fast and with better accuracy.
