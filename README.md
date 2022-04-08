@@ -6,7 +6,13 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-## [E-commerce: Identificando características de bons vendedores]():
+## [E-commerce: Identificando atrasos na entrega](https://github.com/RGivisiez/Olist-delivery-delay):
+
+Como foi visto nos resultados do notebook [E-Commerce Seller](https://github.com/RGivisiez/Olist-sellers-K-Means/blob/main/E_Commerce_Seller.ipynb), uma baixa avaliação dos vendedores está correlacionada com o atraso da entrega. Para melhorar as avaliações dos vendedores, e também deixar o consumir mais satisfeito, iremos criar uma algoritmo que indique a possibilidade de atraso na entrega.
+
+-----
+
+## [E-commerce: Identificando características de bons vendedores](https://github.com/RGivisiez/Olist-sellers-K-Means):
 
 Empresas que trabalham com marketplace agregam diversos tipos de vendedores em seus sistemas, porém nem todos eles conseguem deixar seus clientes satisfeitos. Sendo assim, é importante identificar característica de vendedores bem avaliados pelos usuários e incentivar que outros se comportem da mesma forma. Com a quantidade de dados disponível sobre os vendedores, é possível identificar de forma automatizada essas características e propor mudanças tanto por parte dos vendedores quanto por parte da empresa.
 
