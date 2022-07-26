@@ -6,10 +6,6 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-## [Apresentação Modal - Dataset Nubank](https://github.com/RGivisiez/Apresenta-o-Modal---Dataset-Nubank)
-
-Notebok feito para uma entrevista de emprego na Modal Mais.
-
 ## [E-commerce: Identificando atrasos na entrega](https://github.com/RGivisiez/Olist-delivery-delay):
 
 Como foi visto nos resultados do notebook [E-Commerce Seller](https://github.com/RGivisiez/Olist-sellers-K-Means/blob/main/E_Commerce_Seller.ipynb), uma baixa avaliação dos vendedores está correlacionada com o atraso da entrega. Para melhorar as avaliações dos vendedores, e também deixar o consumir mais satisfeito, iremos criar uma algoritmo que indique a possibilidade de atraso na entrega.
