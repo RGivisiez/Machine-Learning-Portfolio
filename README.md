@@ -15,20 +15,20 @@ Every day, students of pharmacy at the Federal University of Minas Gerais (UFMG)
 
 -----
 
-## [Análise de default usando o dataset do Nubank](https://github.com/RGivisiez/credit-card-risk-analysis):
+## [Analysis of Default Using Nubank's Dataset](https://github.com/RGivisiez/credit-card-risk-analysis):
 
-O Nubank, fintech brasileira, promoveu uma competição com o intuito de buscar por novos talentos. Um dos objetivos propostos na competição foi o de criar um modelo que conseguisse prever quais clientes não iriam honrar com suas dívidas, incorrendo no que é chamado de default. Para fazer a previsões, era usado um dataset com informações sobre o cliente. Um dos grandes problemas desse tipo de dataset é seu desbalanço de classe, temos uma quantidade enorme de clientes que pagam suas dívidas e uma quantidade mínima que não pagam, isso torna a previsão difícil. 
+Nubank, a Brazilian fintech, organized a competition aimed at scouting for new talents. One of the objectives of the competition was to create a model capable of predicting which customers would fail to meet their financial obligations, incurring what is known as default. To make these predictions, a dataset containing customer information was used. One of the major issues with this type of dataset is its class imbalance; there is a large number of customers who pay their debts and a minimal number who do not, making prediction difficult.
 
-O que você vai ver neste notebook:
-  1. **Limpeza dos dados** e produção de features novas.
-  2. Uso de **Pipeline** para facilitar a manipulação dos dados em diversos modelos e minimizar as chances de data leak.
-  3. Como lidar com um **dataset desbalanceado**.
-  4. **Escolha de métricas** para dataset desbalanceados.
-  5. Conversão de features para categóricas ordenadas e para **One Hot Enconder** (OHE).
-  6. Redução de skewness das features usando **log ou QuantileTransformer**.
-  7. Uso de gridsearch para buscar os melhores parâmetros dos modelos.
-  8. Modelos usados: **Decision Tree**, **Random Tree**, **Neural Network**, **Logistic Regression**, **Bagging**, **Random Patches**, **Adaboost** e **Voting Classifier**. 
-  9. Discussão dos resultados obtidos.
+What you will see in this notebook:
+  1. **Data cleaning** and creation of new features.
+  2. Use of **Pipeline** to simplify data manipulation across various models and minimize the risk of data leakage.
+  3. How to handle an **imbalanced dataset**.
+  4. **Metric selection** for imbalanced datasets.
+  5. Conversion of features to ordered categories and to **One Hot Encoder** (OHE).
+  6. Reducing skewness of features using **log or QuantileTransformer**.
+  7. Use of grid search to find the best parameters for the models.
+  8. Models used: **Decision Tree**, **Random Tree**, **Neural Network**, **Logistic Regression**, **Bagging**, **Random Patches**, **Adaboost**, and **Voting Classifier**.
+  9. Discussion of the results obtained.
 
 -----
 
